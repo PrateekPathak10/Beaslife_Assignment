@@ -1,0 +1,9 @@
+langchain
+langchain-community 
+faiss-cpu 
+fastapi 
+uvicorn 
+streamlit
+pandas
+plotly 
+sentence-transformers

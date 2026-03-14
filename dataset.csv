@@ -1,0 +1,79 @@
+message,category,response,timestamp
+Where is my order?,Order Status,You can track your order using the tracking link sent to your email.,2026-03-01 09:10:00
+I can't track my order,Order Status,Please check the tracking link sent to your email.,2026-03-01 10:20:00
+My package has not arrived yet,Delivery Delay,Delivery usually takes 3-5 business days.,2026-03-01 11:05:00
+My delivery is late,Delivery Delay,We apologize for the delay. Your order is in transit.,2026-03-01 12:40:00
+I want a refund for my order,Refund Request,Refunds can be requested within 7 days of delivery.,2026-03-01 13:15:00
+Please refund my money,Refund Request,Our team will initiate the refund process shortly.,2026-03-01 14:25:00
+The product I received is damaged,Product Issue,Please upload photos and we will replace the product.,2026-03-02 09:45:00
+My item arrived broken,Product Issue,We will arrange a replacement for the damaged product.,2026-03-02 10:35:00
+Payment failed but money was deducted,Payment Problem,Please share the transaction ID with support.,2026-03-02 11:55:00
+My card was charged twice,Payment Problem,We will investigate and process the refund if applicable.,2026-03-02 13:20:00
+How do I cancel my subscription?,Subscription Issue,Go to account settings and click cancel subscription.,2026-03-02 14:10:00
+I want to stop my subscription,Subscription Issue,You can cancel your subscription from account settings.,2026-03-02 15:30:00
+Do you ship internationally?,General Query,Yes we ship internationally to select countries.,2026-03-03 09:20:00
+What payment methods do you accept?,General Query,We accept cards UPI and net banking.,2026-03-03 10:10:00
+Where can I see my order details?,Order Status,Login to your account and view your orders.,2026-03-03 11:00:00
+My shipment hasn't moved for days,Delivery Delay,Your package may be delayed due to logistics issues.,2026-03-03 12:30:00
+I want to return my order,Refund Request,Returns are accepted within 7 days of delivery.,2026-03-03 14:10:00
+The packaging was damaged,Product Issue,Please send images of the packaging to support.,2026-03-04 09:15:00
+Payment page shows error,Payment Problem,Try again after clearing browser cache.,2026-03-04 10:50:00
+How long does shipping take?,General Query,Shipping usually takes 3-5 business days.,2026-03-04 12:25:00
+Where is my delivery?,Order Status,Please check the tracking link in your email.,2026-03-04 13:40:00
+My delivery is taking too long,Delivery Delay,We are checking the shipment status.,2026-03-04 14:30:00
+I want my money back,Refund Request,Our refund team will review your request.,2026-03-05 09:20:00
+The bottle leaked in the package,Product Issue,We will arrange a replacement for the damaged item.,2026-03-05 10:30:00
+Payment not going through,Payment Problem,Please try a different payment method.,2026-03-05 11:40:00
+Cancel my membership please,Subscription Issue,You can cancel from the subscription section.,2026-03-05 13:00:00
+Is cash on delivery available?,General Query,Cash on delivery is available for select locations.,2026-03-05 14:10:00
+Track my order please,Order Status,Use the tracking link sent to your email.,2026-03-06 09:35:00
+My parcel hasn't arrived yet,Delivery Delay,Your order may arrive within the next 48 hours.,2026-03-06 10:50:00
+I want to return the product,Refund Request,Return requests can be submitted from your orders page.,2026-03-06 12:00:00
+Wrong product delivered,Product Issue,We will arrange a replacement for the wrong item.,2026-03-06 13:15:00
+Payment deducted but order not placed,Payment Problem,The amount will be refunded automatically.,2026-03-06 14:25:00
+How to update my delivery address?,General Query,You can edit address in account settings.,2026-03-07 09:20:00
+My order status hasn't updated,Order Status,Tracking updates may take a few hours.,2026-03-07 10:30:00
+Delivery date passed but no package,Delivery Delay,We apologize and are investigating the delay.,2026-03-07 11:45:00
+Refund still not received,Refund Request,Refunds may take 5-7 working days.,2026-03-07 12:50:00
+The supplement bottle is cracked,Product Issue,We will replace the damaged product.,2026-03-07 13:40:00
+My payment keeps failing,Payment Problem,Please contact your bank or try another method.,2026-03-07 15:10:00
+How do I change my subscription plan?,Subscription Issue,Plans can be changed in the subscription tab.,2026-03-08 09:30:00
+Do you offer discounts?,General Query,Discounts are announced during promotions.,2026-03-08 10:40:00
+Where is my shipment now?,Order Status,Track it via the courier tracking link.,2026-03-08 11:55:00
+Package stuck in transit,Delivery Delay,Logistics delays may occur during peak season.,2026-03-08 13:10:00
+I want refund for damaged product,Refund Request,Please upload proof images to initiate refund.,2026-03-08 14:25:00
+The cap of the bottle is broken,Product Issue,We will send a replacement product.,2026-03-09 09:15:00
+UPI payment not working,Payment Problem,Try again after checking UPI app connection.,2026-03-09 10:40:00
+Pause my subscription for a month,Subscription Issue,Subscriptions can be paused in settings.,2026-03-09 11:55:00
+Can I change delivery slot?,General Query,Delivery slots can be modified before dispatch.,2026-03-09 13:20:00
+My product is expired,Product Issue,"I'd be happy to help you with your concern!
+
+Since your product has expired, I would recommend reaching out to us so that we can assist you further. If your product is no longer usable due to expiration, we may be able to provide a replacement or offer a refund.
+
+To process this request, please follow these steps:
+
+1. Log in to your account and go to the order history section.
+2. Find the order containing the expired product and click on it.
+3. Click on the ""Request Replacement"" or ""Request Refund"" button (depending on our policies).
+4. Provide a brief description of the issue and attach any relevant photos or documentation.
+
+If you have any questions or concerns, please feel free to reach out to us. We're here to help!
+
+(And if you need further assistance with tracking your order or canceling your subscription, I'd be happy to provide that information as well!)",2026-03-13 19:56:56.528967
+product is not same i ordered,Product Issue,"I'm happy to help you with your concern!
+
+Since the product isn't what you ordered, I'd like to assist you in resolving this issue. Can you please provide more details or clarify what's different about the product compared to what you expected? Was it a size, color, material, or something else?
+
+Also, have you tried tracking your order using the link sent to your email? This might give us an idea of where the package is and if there are any issues with delivery that could be related to the discrepancy.
+
+Let me know how we can move forward to resolve this matter.",2026-03-13 23:44:04.755615
+product is not same i ordered,Product Issue,"I'm happy to help you with your issue! Sorry to hear that the product isn't what you expected. Can you please provide more details about the discrepancy, such as what you ordered versus what you received? Additionally, would you like me to assist you in tracking your order using the tracking link sent to your email?
+
+If the product is indeed damaged or not what you ordered, we'd be happy to help resolve this issue for you. As per our policy, please upload photos of the product and we'll work on replacing it for you.
+
+Let me know how I can further assist you!",2026-03-13 23:44:45.148378
+My product is expired,Product Issue,"Sorry to hear that your product has expired. Can you please provide more information about what happened, such as the expiration date on the packaging and the expected shelf life when you received it?
+
+If it's not suitable for use due to expiring before its time, I can assist with a refund request. As per our policy, refunds can be requested within 7 days of delivery. Since your product is expired, we can look into this further.
+
+Also, have you tracked your order using the tracking link sent to your email? This might help us identify any potential issues during delivery that could've contributed to the expiration.",2026-03-13 23:49:08.597769

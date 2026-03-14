@@ -1,0 +1,9 @@
+Where is my order? -> You can track your order using the tracking link sent to your email.
+
+How long does delivery take? -> Delivery usually takes 3-5 business days.
+
+How can I get a refund? -> Refunds can be requested within 7 days of delivery.
+
+How do I cancel subscription? -> Go to account settings and click cancel subscription.
+
+What if my product is damaged? -> Please upload photos and we will replace the product.
