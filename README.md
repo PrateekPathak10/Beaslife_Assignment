@@ -1,5 +1,7 @@
 # Beastlife AI Automation & Customer Intelligence System
 
+### Link: https://prateekpathakbeastlifeassignment.streamlit.app/
+
 ## Overview
 
 This project implements an AI-powered customer support automation system that automatically categorizes customer queries, generates responses using Retrieval-Augmented Generation (RAG), and visualizes insights through a dashboard.
