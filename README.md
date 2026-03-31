@@ -1,4 +1,4 @@
-# Beastlife AI Automation & Customer Intelligence System
+# AI Automation & Customer Intelligence System
 
 ### Link: https://prateekpathakbeastlifeassignment.streamlit.app/
 
