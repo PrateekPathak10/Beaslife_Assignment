@@ -81,7 +81,7 @@ The system classifies queries into the following categories:
 ## Project Structure
 
 ```
-beastlife_assignment/
+AI_assistant/
 
 api.py                # FastAPI endpoint
 app.py                # Streamlit dashboard
